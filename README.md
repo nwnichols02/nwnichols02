@@ -53,8 +53,9 @@ Here are some ideas to get you started:
   ![Httpie](https://img.shields.io/badge/-Httpie-333333?style=flat&logo=httpie)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-
+<a href="https://github.com/nwnichols02">
   <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=nwnichols02&theme=dark&show_icons=true" />&nbsp; <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwnichols02&theme=dark&layout=compact" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
