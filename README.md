@@ -4,7 +4,7 @@ About Me
 - 🤔 I love problem solving, writing code, and building things to improve others lives.
 - 🔭 I'm a student at BloomTech(formerly Lambda School).
 - 🌱 I’m currently learning React and Node.js.
-- 📫 How to reach me: https://www.linkedin.com/in/nathan-nichols-39b255171/
+- 📫 How to reach me: https://www.linkedin.com/in/nathan-w-nichols/
 
 Languages
 JS, CSS, HTML, and soon many many more! 
