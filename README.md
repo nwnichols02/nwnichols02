@@ -45,6 +45,6 @@ Here are some ideas to get you started:
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
   <a href="https://github.com/nwnichols02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nwnichols02&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwnichols02&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nwnichols02&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwnichols02&theme=dark&layout=compact" />
 </a>
