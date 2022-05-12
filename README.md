@@ -55,8 +55,8 @@ Here are some ideas to get you started:
   
   
   <a href="https://github.com/nwnichols02">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=nwnichols02&theme=dark&show_icons=true" />
-  <img height="183em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwnichols02&theme=dark&layout=compact" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=nwnichols02&theme=dark&show_icons=true" />
+  <img height="183em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwnichols02&theme=dark&layout=compact" />
 </a>
 
 <h3 align="left">Connect with me:</h3>
