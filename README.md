@@ -1,13 +1,10 @@
-### Hi there 👋
+<h1 align="center">Howdy there 👋 I'm Nate!</h1>
+
 
 About Me
 - 🤔 I love problem solving, writing code, and building things to improve others lives.
 - 🔭 I'm a student at BloomTech(formerly Lambda School).
-- 🌱 I’m currently learning React and Node.js.
-- 📫 How to reach me: https://www.linkedin.com/in/nathan-w-nichols/
-
-Languages
-JS, CSS, HTML, and soon many many more! 
+- 🌱 I’m currently learning Python and Typescript.
 <!--
 **nwnichols02/nwnichols02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
