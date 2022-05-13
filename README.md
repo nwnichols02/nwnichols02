@@ -1,10 +1,16 @@
 <h1 align="center">Howdy there 👋 I'm Nate!</h1>
 
 
-About Me
+<h2>About Me:</h2>
+
+<p>
 - 🤔 I love problem solving, writing code, and building things to improve others lives.
+  <br/>
 - 🔭 I'm a student at BloomTech(formerly Lambda School).
+  <br/>
 - 🌱 I’m currently learning Python and Typescript.
+  </p>
+  
 <!--
 **nwnichols02/nwnichols02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
