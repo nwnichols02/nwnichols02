@@ -4,11 +4,11 @@
 <h2>About Me:</h2>
 
 <p>
-- 🤔 I love problem solving, writing code, and building things to improve others lives.
+🤔 I love problem solving, writing code, and building things to improve others lives.
   <br/>
-- 🔭 I'm a student at BloomTech(formerly Lambda School).
+🌱 I’m currently learning Python and Typescript.
   <br/>
-- 🌱 I’m currently learning Python and Typescript.
+ 🔭 Fun fact I love the outdoors and spending time in nature.
   </p>
   
 <!--
