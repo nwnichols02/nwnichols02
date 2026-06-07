@@ -17,8 +17,8 @@ I like building systems that stay honest under pressure:
 
 ### Featured project
 - **MelonDB** — offline-first database tooling for React Native + TypeScript
-  Melon-DB Docs: [melon-db-docs](https://melon-db.vercel.app/)
-  GitHub: [nwnichols02/melon-db](https://github.com/nwnichols02/melon-db)
+- Melon-DB Docs: [melon-db-docs](https://melon-db.vercel.app/)
+- GitHub: [nwnichols02/melon-db](https://github.com/nwnichols02/melon-db)
 
 ### Writing
 I write about architecture, offline-first systems, and the tradeoffs behind building real software:
