@@ -16,7 +16,8 @@ I like building systems that stay honest under pressure:
 - React Native, TypeScript, SQLite, and reusable package design
 
 ### Featured project
-- **MelonDB** — offline-first database tooling for React Native + TypeScript  
+- **MelonDB** — offline-first database tooling for React Native + TypeScript
+  Melon-DB Docs: [melon-db-docs](https://melon-db.vercel.app/)
   GitHub: [nwnichols02/melon-db](https://github.com/nwnichols02/melon-db)
 
 ### Writing
